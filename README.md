@@ -64,5 +64,6 @@ existing folder
     - git init
     - git remote add origin {repo}
     - git push origin {branch}
+    - git error: `fatal: refusing to merge unrelated histories`  Solution : add command `--allow-unrelated-histories`
 
 ```
